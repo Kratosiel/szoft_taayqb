@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "szorzotabla", "szorzotabla\szorzotabla.csproj", "{AF93D5D8-07AB-452F-9898-898AE97D39EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "szorzotabla", "szorzotabla\szorzotabla.csproj", "{AF93D5D8-07AB-452F-9898-898AE97D39EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{04B99C39-0ABB-4211-98C3-AF35C6045B95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{04B99C39-0ABB-4211-98C3-AF35C6045B95}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Quiz", "Quiz", "{36497A08-8218-404E-80B2-C89B4FD72A96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fájlquiz", "fájlquiz\fájlquiz.csproj", "{64660880-4BA1-475A-966C-72A85CECE28C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,10 @@ Global
 		{04B99C39-0ABB-4211-98C3-AF35C6045B95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04B99C39-0ABB-4211-98C3-AF35C6045B95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04B99C39-0ABB-4211-98C3-AF35C6045B95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64660880-4BA1-475A-966C-72A85CECE28C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64660880-4BA1-475A-966C-72A85CECE28C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64660880-4BA1-475A-966C-72A85CECE28C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64660880-4BA1-475A-966C-72A85CECE28C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
