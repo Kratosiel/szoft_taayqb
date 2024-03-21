@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fibonacci", "Fibonacci\Fibo
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Quiz", "Quiz", "{36497A08-8218-404E-80B2-C89B4FD72A96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fájlquiz", "fájlquiz\fájlquiz.csproj", "{64660880-4BA1-475A-966C-72A85CECE28C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fájlquiz", "fájlquiz\fájlquiz.csproj", "{64660880-4BA1-475A-966C-72A85CECE28C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "snake", "snake\snake.csproj", "{DC1A2E61-D87B-400D-8750-1E090EBBCDE0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,6 +31,10 @@ Global
 		{64660880-4BA1-475A-966C-72A85CECE28C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64660880-4BA1-475A-966C-72A85CECE28C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64660880-4BA1-475A-966C-72A85CECE28C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC1A2E61-D87B-400D-8750-1E090EBBCDE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC1A2E61-D87B-400D-8750-1E090EBBCDE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC1A2E61-D87B-400D-8750-1E090EBBCDE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC1A2E61-D87B-400D-8750-1E090EBBCDE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
